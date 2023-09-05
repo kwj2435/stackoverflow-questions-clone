@@ -1,0 +1,8 @@
+rootProject.name = 'stackoverflow-questions-clone'
+include 'stackoverflow-app'
+include 'stackoverflow-module-core'
+include 'stackoverflow-app:stackoverflow-external-api'
+findProject(':stackoverflow-app:stackoverflow-external-api')?.name = 'stackoverflow-external-api'
+include 'stackoverflow-module-core:member-domain'
+findProject(':stackoverflow-module-core:member-domain')?.name = 'member-domain'
+
