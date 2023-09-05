@@ -10,7 +10,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/stackoverflow-app" />
             <option value="$PROJECT_DIR$/stackoverflow-app/stackoverflow-external-api" />
+            <option value="$PROJECT_DIR$/stackoverflow-core-module" />
+            <option value="$PROJECT_DIR$/stackoverflow-core-module/board-domain" />
             <option value="$PROJECT_DIR$/stackoverflow-module-core" />
+            <option value="$PROJECT_DIR$/stackoverflow-module-core/board-domain" />
             <option value="$PROJECT_DIR$/stackoverflow-module-core/member-domain" />
           </set>
         </option>
