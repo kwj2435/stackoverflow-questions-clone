@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757246f5-622a-4d51-b293-9364d8837283" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="757246f5-622a-4d51-b293-9364d8837283" name="Changes" comment="Multi Module 세팅">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackoverflow-app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stackoverflow-app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackoverflow-module-core/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackoverflow-module-core/member-domain/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stackoverflow-module-core/member-domain/src/main/java/com/stackoverflow/member/core/domain/MemberEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +106,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693887075798</updated>
-      <workItem from="1693887077253" duration="5186000" />
+      <workItem from="1693887077253" duration="5530000" />
     </task>
+    <task id="LOCAL-00001" summary="Multi Module 세팅">
+      <created>1693899548991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693899548991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Multi Module 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multi Module 세팅" />
   </component>
 </project>
